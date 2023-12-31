@@ -1,0 +1,12 @@
+Origin: Vivester
+Label: Vivester
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Private Usage
+
+SHA256:
+ cea2678fd9540b22cc570aa043ff065ebaab9429813137453b8b85df08406dfc 583 Packages.bz2
+ eeb3fe7f78ee7044294373bedface1bfd622091b676a599953e0eac4e8eff4e1 592 Packages.xz
